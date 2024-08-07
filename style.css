@@ -1,0 +1,23 @@
+body {
+  background-color: #f4f4f4;
+}
+
+.container {
+  max-width: 800px;
+}
+
+.footer-text {
+  text-align: center;
+  font-size: 1rem;
+  color: #333;
+  margin-top: 20px;
+}
+
+.footer-text a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.footer-text a:hover {
+  text-decoration: underline;
+}
